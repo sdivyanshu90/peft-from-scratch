@@ -1,0 +1,17 @@
+.coverage
+.hypothesis/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.benchmarks/
+.claude/
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
